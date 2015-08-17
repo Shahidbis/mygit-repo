@@ -8,5 +8,6 @@ echo " this is to show";
 
 echo "this is new change";
 
+echo "changing two files together";
 
 ?>
