@@ -5,4 +5,6 @@ echo "this is revert testing msg";
 echo "this is new line added via storm";
 phpinfo();
 
+echo "this is after push revert of index file";
+
 ?>

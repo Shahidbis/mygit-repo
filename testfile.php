@@ -10,4 +10,6 @@ echo "this is new change";
 
 echo "changing two files together";
 
+echo "this is after push revert";
+
 ?>
