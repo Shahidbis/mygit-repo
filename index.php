@@ -10,4 +10,6 @@ echo 'herasdfae list';
 
 echo 'asdfafassd';
 
+echo 'this is from the app';
+
 ?>
