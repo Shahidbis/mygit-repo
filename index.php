@@ -6,6 +6,6 @@ echo "this is new line added via storm";
 phpinfo();
 echo "herer";
 echo "this is after push revert of index file";
-echo 'here list';
+echo 'herasdfae list';
 
 ?>
