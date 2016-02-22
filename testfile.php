@@ -13,4 +13,6 @@ echo "changing two files together";
 echo "this is after push revert";
 
 echo "i am inside training branch";
+echo "hey ya";
+
 ?>
