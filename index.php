@@ -12,4 +12,8 @@ echo 'asdfafassd';
 
 echo 'this is from the app';
 
+echo 'cheking comit push';
+
+echo 'this is commit test';
+
 ?>
