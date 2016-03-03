@@ -17,4 +17,5 @@ echo "hey ya";
 
 exho "yo yo";
 
+echo 'o yes';
 ?>
