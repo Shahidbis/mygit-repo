@@ -3,7 +3,4 @@ echo "this is new file directly uploaded on the server and now this has to be pu
 echo 'fixed something';
 echo 'fixed something';
 echo 'another test';
-
-echo 'asdfa';
-
 ?>
